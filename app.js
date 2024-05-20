@@ -122,11 +122,11 @@ const modalDisplay = (data) => {
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p><b>Product ID:</b> ${id}</p>
-            <p><b>Product Name:</b> ${name}</p>
-            <p><b>Product Nationality:</b> ${natinality}</p>
-            <p><b>Product Sport:</b> ${sport}</p>
-            <p><b>Product Team:</b> ${team}</p>
+            <p><b>Player ID:</b> ${id}</p>
+            <p><b>Player Name:</b> ${name}</p>
+            <p><b>Player Nationality:</b> ${natinality}</p>
+            <p><b>Player Sport:</b> ${sport}</p>
+            <p><b>Player Team:</b> ${team}</p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn closebtn" data-bs-dismiss="modal">Close</button>
