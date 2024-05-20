@@ -1,0 +1,48 @@
+.btn-cus{
+    background-color: rgb(99, 94, 94);
+    color: white;
+}
+
+#main-con{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 50px;
+    padding: 10px;
+    width: 75%;
+}
+
+#cart-con{
+    margin-top: 50px;
+    box-shadow: 4px 4px 8px gray;
+    width: 25%;
+    position: sticky;
+    top:0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgb(99, 94, 94);
+    color: white;
+    text-align: center;
+}
+
+.icon-con{
+    display: flex;
+    gap: 10px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.closebtn{
+    background-color: rgb(219, 86, 86);
+    color: white;
+    border-radius: 5px;
+}
